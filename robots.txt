@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://omildrua.github.io/omildrua.txt.gz
+Sitemap: https://omildrua.github.io/app/omildrua.txt.gz
+Sitemap: https://omildrua.github.io/assets/omildrua.txt.gz
+Sitemap: https://omildrua.github.io/css/omildrua.txt.gz
+Sitemap: https://omildrua.github.io/includes/omildrua.txt.gz
+Sitemap: https://omildrua.github.io/item/omildrua.txt.gz
+Sitemap: https://omildrua.github.io/src/omildrua.txt.gz
